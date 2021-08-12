@@ -7,7 +7,7 @@ import uuid
 def temporaryFileNameGenerator():
     return str(uuid.uuid4()) 
 # assign files
-input_file = "Giveon - HEARTBREAK ANNIVERSARY (Karaoke Version).mp3"
+input_file = ""
 output_file = temporaryFileNameGenerator()+".wav"
   
  

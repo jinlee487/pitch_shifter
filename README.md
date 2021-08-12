@@ -8,8 +8,6 @@ This program uses librosa to shift mp3/wav file pitch.
 
 Please message me with any feedback, I am happy talk :)
 
-<img src="https://user-images.githubusercontent.com/46912607/120653042-4c1f9a00-c4bb-11eb-9e2e-79c13aebbc20.PNG" width="300">
-
 ### 📑 How to Install and Run
 
 1. Download the youtube2mp3 3.01 zip file from the lastest published releases.

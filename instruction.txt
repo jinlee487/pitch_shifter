@@ -1,0 +1,19 @@
+WELCOME!!
+
+*****
+Do not delete or make edits to instruction.txt or config.json.
+Doing so may damage the program.
+*****
+This is pitch_shifter.py ver 1.00
+
+After you first download the zip folder, unzip the folder in your location of choice.
+Then create a quick a shortcut of the pitch_shifter.exe file for access.
+Make sure to choose a file download destination before you start downloading files.
+
+This is an open source mp3/wav file pitch shifter made by me, Jinlee487.
+I will not assume any responsibility of others using this resource in any fashion.
+
+Enjoy!!
+
+
+

@@ -187,12 +187,10 @@ class GUI(Tk):
 
     def convert_mp3_to_wav(self,input_file):
         # convert mp3 file to wav file
-        print("convert_mp3_to_wav")
         try:
             output_file = os.getcwd() +"/"+self.temporaryFileNameGenerator()+".wav"
             sound = AudioSegment.from_mp3(input_file)
             sound.export(output_file, format="wav")
-            print(output_file)
             return output_file
         except Exception as e:
             messagebox.showerror('Error', str(e)+'\nCannot convert mp3 to wav')
